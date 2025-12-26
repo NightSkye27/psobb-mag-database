@@ -15,9 +15,7 @@ local function CreateSection(MAG, Parse, lang)
           "Level: The sum of the MAG's DEF, POW, DEX and MIND stats. A new MAG has a level of 5 and is limited to 200. In other words, the MAG's DEF, POW, DEX and MIND stat total cannot exceed 200.",
           
           "Synchro: Improves damage of Estlla, Farlla, Golla and Pilla photon blasts. A new MAG has a synchro of 40%%. Synchro ranges from 0%% to 120%%, and feeding a MAG can increase or decrease synchro within this range. Being defeated while a MAG is equipped reduces the equipped MAG's synchro by 5%%. In versions 1 and 2 of the game, leaving a game while a MAG is equipped also reduces the equipped MAG's synchro by 5%%.",
-          
-          "IQ: Improves damage of Estlla, Farlla, Golla and Pilla photon blasts, and strength of Leilla and Mylla & Youlla photon blasts. A new MAG has an IQ of 0, but can be as high as 200. Feeding a MAG can increase or decrease IQ within this range.",
-          
+
           "IQ: Improves damage of Estlla, Farlla, Golla and Pilla photon blasts, and strength of Leilla and Mylla & Youlla photon blasts. A new MAG has an IQ of 0, but can be as high as 200. Feeding a MAG can increase or decrease IQ within this range.",
           
           "DEF: Adds base DFP while equipped. 1 point of DEF has a value of 1 DFP. A new MAG has a DEF of 5.",
